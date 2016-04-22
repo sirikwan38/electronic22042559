@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="detail">
+        <item>รายละเอียดที่1</item>
+        <item>รายละเอียดที่1</item>
+        <item>รายละเอียดที่1</item>
+        <item>รายละเอียดที่1</item>
+        <item>รายละเอียดที่1</item>
+        <item>รายละเอียดที่1</item>
+        <item>รายละเอียดที่1</item>
+        <item>รายละเอียดที่1</item>
+        <item>รายละเอียดที่1</item>
+        <item>รายละเอียดที่1</item>
+        <item>รายละเอียดที่1</item>
+        <item>รายละเอียดที่1</item>
+        <item>รายละเอียดที่1</item>
+        <item>รายละเอียดที่1</item>
+        <item>รายละเอียดที่1</item>
+        <item>รายละเอียดที่1</item>
+        <item>รายละเอียดที่1</item>
+        <item>รายละเอียดที่1</item>
+        <item>รายละเอียดที่1</item>
+        <item>รายละเอียดที่1</item>
+
+
+
+    </string-array>
+
+    <string-array name="information">
+        <item>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+
+    </string-array>
+
+</resources>
